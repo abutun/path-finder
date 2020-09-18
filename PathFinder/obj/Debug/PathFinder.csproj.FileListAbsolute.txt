@@ -1,0 +1,8 @@
+D:\OTHER\Projects\PROJECTS\PathFinder\PathFinder\obj\Debug\PathFinder.exe
+D:\OTHER\Projects\PROJECTS\PathFinder\PathFinder\bin\Debug\PathFinder.exe
+D:\OTHER\Projects\PROJECTS\PathFinder\PathFinder\bin\Debug\PathFinder.pdb
+D:\OTHER\Projects\PROJECTS\PathFinder\PathFinder\obj\Debug\PathFinder.PathFinder.resources
+D:\OTHER\Projects\PROJECTS\PathFinder\PathFinder\obj\Debug\PathFinder.Properties.Resources.resources
+D:\OTHER\Projects\PROJECTS\PathFinder\PathFinder\obj\Debug\PathFinder.csproj.GenerateResource.Cache
+D:\OTHER\Projects\PROJECTS\PathFinder\PathFinder\obj\Debug\PathFinder.pdb
+D:\Other\Projects\PROJECTS\PathFinder\PathFinder\obj\Debug\PathFinder.csprojResolveAssemblyReference.cache

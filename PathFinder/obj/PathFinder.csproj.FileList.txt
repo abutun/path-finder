@@ -1,0 +1,8 @@
+bin\Debug\PathFinder.exe
+bin\Debug\PathFinder.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PathFinder.PathFinder.resources
+obj\Debug\PathFinder.Properties.Resources.resources
+obj\Debug\PathFinder.csproj.GenerateResource.Cache
+obj\Debug\PathFinder.exe
+obj\Debug\PathFinder.pdb
